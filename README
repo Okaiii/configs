@@ -1,0 +1,2 @@
+To install, copy the cfg folder to C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf (for 64-bit systems) or C:\Program Files\Steam\steamapps\common\Team Fortress 2\tf (for 32-bit systems)
+Keep in mind that some things may not work for you (p-rec cvars if you don't have p-rec and some of the sourcemod stuff)
