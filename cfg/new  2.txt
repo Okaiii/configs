@@ -1,2 +1,0 @@
-mat_filterlightmaps 1
-mat_filtertextures 1
